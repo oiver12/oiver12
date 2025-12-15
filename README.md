@@ -8,4 +8,5 @@ I'm an Electrical Engineering student at **ETH Zürich** focusing on Control Sys
   - **Embedded:** ESP32, FreeRTOS
   - **Web:** React, PostgreSQL
 
-[Website](https://www.oliverbaumgartner.com/)
+---
+[🌐 Personal Website](https://www.oliverbaumgartner.com/) | [💼 LinkedIn](https://www.linkedin.com/in/oliver-baumgartner-371291300/)
