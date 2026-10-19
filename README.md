@@ -38,6 +38,6 @@ AirDrop for my tailnet—a Rust app bringing drag-and-drop file transfers and cl
 ### 📈 On GitHub
 
 <img src="https://github-readme-stats.vercel.app/api?username=oiver12&show_icons=true&hide_border=true&theme=transparent&hide_rank=true" alt="Oliver's GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiver12&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiver12&layout=compact&hide_border=true&theme=transparent&langs_count=6&hide=G-code" alt="Most used languages" height="165" />
 
 </div>
